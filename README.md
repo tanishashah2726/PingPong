@@ -1,2 +1,2 @@
 # PingPong
-Ping pong game 
+A game where you can play ping pong against a robot.
